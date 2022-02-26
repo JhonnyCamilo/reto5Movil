@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//comentario 
     private void lladoGET() {
         String url = "https://g42463fc9ec0dbe-db202112171048.adb.sa-saopaulo-1.oraclecloudapps.com/ords/admin/tabla/tabla";
 
